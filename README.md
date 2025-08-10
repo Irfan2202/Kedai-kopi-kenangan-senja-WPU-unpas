@@ -1,24 +1,31 @@
 Kedai Kopi Kenangan Senja ☕
+Landing page responsif untuk kedai kopi, dibangun menggunakan HTML, CSS, dan JavaScript.
+Website ini menampilkan desain modern dengan tampilan yang optimal di desktop, tablet, dan mobile.
 
-Website kedai kopi responsif menggunakan HTML, CSS, dan JavaScript.
-Project ini dibuat sebagai latihan membangun landing page modern yang menarik dan dapat diakses di berbagai perangkat.
+Fitur utama:
 
-✨ Fitur
+    ✅ Desain responsif di semua perangkat
 
-    Tampilan responsif untuk desktop, tablet, dan mobile
-    Navbar interaktif
-    Hero section dengan background menarik
-    Menu kopi dengan layout berbasis card
-    Form pemesanan sederhana
-    Animasi scroll halus
+    ✅ Navbar interaktif
 
-🛠️ Teknologi yang Digunakan
+    ✅ Hero section dengan background menarik
+
+    ✅ Menu kopi dengan layout card
+
+    ✅ Form pemesanan sederhana
+
+    ✅ Animasi scroll halus
+
+Teknologi:
+
     HTML5 – Struktur halaman
+
     CSS3 – Styling dan responsive design
+
     JavaScript – Interaktivitas
 
-🚀 Cara Menjalankan Clone repository ini
+Cara menjalankan:
 
-    git clone https://github.com/Irfan2202/Kedai-kopi-kenangan-senja-WPU-unpas.git
+git clone https://github.com/Irfan2202/Kedai-kopi-kenangan-senja-WPU-unpas.git
 
-Buka file index.html di browser
+Buka file index.html di browser.
