@@ -3,17 +3,11 @@ Kedai Kopi Kenangan Senja ☕
 Website kedai kopi yang responsive menggunakan HTML, CSS, dan JavaScript.
 Project ini dibuat sebagai latihan untuk membangun landing page modern yang menarik dan bisa dibuka di berbagai perangkat.
 ✨ Fitur
-
     Tampilan responsive untuk desktop, tablet, dan mobile
-
     Navbar interaktif
-
     Hero section dengan background menarik
-
     Menu kopi dengan card layout
-
     Form pemesanan sederhana
-
     Animasi scroll halus
 
 🛠️ Teknologi yang Digunakan
