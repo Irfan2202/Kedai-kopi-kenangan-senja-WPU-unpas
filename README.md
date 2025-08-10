@@ -2,19 +2,14 @@ Kedai Kopi Kenangan Senja ☕
 Landing page responsif untuk kedai kopi, dibangun menggunakan HTML, CSS, dan JavaScript.
 Website ini menampilkan desain modern dengan tampilan yang optimal di desktop, tablet, dan mobile.
 
-Fitur utama:
+## 🚀 Fitur
 
-    ✅ Desain responsif di semua perangkat
-
-    ✅ Navbar interaktif
-
-    ✅ Hero section dengan background menarik
-
-    ✅ Menu kopi dengan layout card
-
-    ✅ Form pemesanan sederhana
-
-    ✅ Animasi scroll halus
+    - Desain responsif di semua perangkat
+    - Navbar interaktif
+    - Hero section dengan background menarik
+    - Menu kopi dengan layout card
+    - Form pemesanan sederhana
+    - Animasi scroll halus
 
 Teknologi:
 
